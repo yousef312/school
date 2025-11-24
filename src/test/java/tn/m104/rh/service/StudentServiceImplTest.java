@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // it's getting crazy around here
+// an other line that does nothing
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 @ExtendWith(MockitoExtension.class)
